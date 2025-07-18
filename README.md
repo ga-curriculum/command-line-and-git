@@ -49,7 +49,7 @@ Please ignore the `_layouts` folder and the `config.yml` file in the root of thi
 
 ---
 
-#### [Instructor-only resources]()
+#### [Instructor-only resources](https://drive.google.com/file/d/17tqKqef9xN05hLdN7EezeaaBIL8Udvsa/view?usp=drive_link)
 
 
 
