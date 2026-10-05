@@ -22,7 +22,7 @@ Understand how to work in a programming environment using the Command Line, Git 
 
 | Topic |  About |
 | ------ | ------ |
-|  [Slides](Command-Line-and-Git.pdf) | Code-a-long  |
+|  [Slides](https://ga-curriculum.github.io/command-line-and-git/Command-Line-and-Git.pdf){:target="_blank"} | Code-a-long  |
 
 
 ## Prerequisites
